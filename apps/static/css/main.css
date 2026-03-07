@@ -1,0 +1,93 @@
+#links-wrapper{
+margin-top:20px;
+}
+
+.bar{
+padding:18px;
+text-align:center;
+}
+
+.bar-1{background:#a6e6b5;}
+.bar-2{background:#5a5a5a;}
+.bar-3{background:black;}
+
+.qu-link{
+display:block;
+text-decoration:underline;
+font-weight:bold;
+}
+
+.bar-1 .qu-link{color:red;}
+.bar-2 .qu-link{color:gold;}
+.bar-3 .qu-link{color:white;}
+
+.qu-link:visited{color:purple;}
+.qu-link:hover{color:red;}
+.qu-link:active{color:orange;}
+
+.format-title{
+background:#d9d7b8;
+color:green;
+padding:10px;
+}
+
+.list-title{
+background:#6f9fa1;
+color:white;
+padding:10px;
+}
+
+.lab-header{
+width:80%;
+margin:20px auto;
+border-collapse:collapse;
+text-align:center;
+font-weight:bold;
+}
+
+.lab-header td{
+border:1px solid gray;
+padding:10px;
+}
+
+.table1{
+margin:auto;
+border-collapse:collapse;
+text-align:center;
+}
+
+.table1 caption{
+font-weight:bold;
+margin-bottom:10px;
+}
+
+.table1, .table1 th, .table1 td{
+border:1px solid gray;
+}
+
+.table1 th, .table1 td{
+padding:5px 10px;
+}
+
+.table2{
+width:70%;
+margin:auto;
+border-collapse:collapse;
+text-align:center;
+}
+
+.table2 caption{
+margin-bottom:10px;
+}
+
+.table2, .table2 th, .table2 td{
+border:1px solid gray;
+}
+
+.table2 th, .table2 td{
+padding:6px;
+}
+
+.camel-image{
+width:200px;
+}
